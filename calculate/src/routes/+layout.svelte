@@ -20,7 +20,7 @@
 	  display: flex;
 	  flex-direction: column;
 	  min-height: 100vh;
-	  background-color: #fdf5e6; /* Цвет фона - персиковый */
+	  background-color: #fdf5e6; 
 	}
   
 	main {
@@ -40,19 +40,19 @@
 	  justify-content: center;
 	  align-items: center;
 	  padding: 12px;
-	  background-color: #ffe4b5; /* Цвет фона подвала - песочный */
-	  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Тень подвала */
+	  background-color: #ffe4b5;
+	  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
 	}
   
 	footer a {
 	  font-weight: bold;
-	  color: #4169e1; /* Цвет ссылки - королевский синий */
+	  color: #4169e1; 
 	  text-decoration: none;
-	  transition: color 0.3s; /* Плавное изменение цвета ссылки */
+	  transition: color 0.3s; 
 	}
   
 	footer a:hover {
-	  color: #000080; /* Цвет ссылки при наведении - темный королевский синий */
+	  color: #000080; 
 	}
   
 	@media (min-width: 480px) {
